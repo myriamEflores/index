@@ -1,0 +1,45 @@
+*
+{
+    font-family: Mansalva;
+}
+
+html,body{
+    margin: 0;
+    font-size: 18pt;
+}
+
+header img{
+    width: 50%;
+}
+
+hr{
+    border-top: black solid 1px;
+    border-bottom: black solid 1px;
+    box-shadow: rgba(0,0,0,0) 0 2px 4px;    
+}
+
+
+body
+{
+    background: #CAC2AD;
+    text-align: center;
+}
+
+.part{
+    padding: 10px;
+    margin: 2px 0;
+}
+
+.link{
+    color: indianred;
+    font-weight: bold;   
+}
+
+.type, .value{
+    position: relative;
+    float: left;
+    width: 50%;
+    height: 50px;
+    line-height: 50px;
+    margin: 0;
+}
